@@ -16,28 +16,6 @@
   - `numpy` (Para manejo de matrices y dimensiones)
   - `tkinter` (Para la interfaz gráfica)
 
-## Uso
-
-### Ejecución del programa
-
-Puedes ejecutar la aplicación desde la terminal o usar la interfaz gráfica para seleccionar las carpetas de entrada y salida.
-
-1. **Ejecución desde terminal**:
-   Para ejecutar la aplicación, utiliza el siguiente comando:
-
-   ```bash
-   python photoFrame.py <ruta_de_entrada> <ruta_de_salida>
-   ```
-
-2. **Uso con interfaz gráfica**:
-   Simplemente ejecuta el programa sin argumentos:
-
-   ```bash
-   python photoFrame.py
-   ```
-
-   Esto abrirá una ventana emergente donde podrás seleccionar las carpetas a través de la interfaz gráfica.
-
 
 ### Uso con Interfaz Gráfica
 
